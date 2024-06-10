@@ -1,0 +1,34 @@
+{
+  "user": [
+    {
+      "phone": 10900100,
+      "date": "15/06/2005",
+      "id": 1
+    },
+    {
+      "title": "infomation",
+      "author": "Trang",
+      "status": "happy",
+      "address": "Sơn La",
+      "id": 3,
+      "phone": 10900100,
+      "date": "15/06/2005"
+    },
+    {
+      "address": "Sơn La",
+      "id": 4
+    },
+    {
+      "phone": 10900100,
+      "date": "15/06/2005",
+      "id": 5
+    }
+  ],
+  "comment": [
+    {
+      "id": 1,
+      "content": "beuatiful",
+      "title": "infomation"
+    }
+  ]
+}
